@@ -50,11 +50,12 @@ Este projeto tem como objetivo:
 
 ## 🚀 Como começar
 1. Clone o repositório:
-   ```bash
    git clone git@github.com:seu-usuario/seu-repositorio.git
 
    ### Adicionando conteúdo remotamente
 
    ---
    ## Como trabalhar com git
+   ```bash
+
 
