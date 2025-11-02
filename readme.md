@@ -56,6 +56,6 @@ Este projeto tem como objetivo:
 
    ---
    ## Como trabalhar com git
-   ```bash
+
 
 
