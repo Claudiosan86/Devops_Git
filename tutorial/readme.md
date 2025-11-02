@@ -1,4 +1,6 @@
-te lab vai te guiar pelos comandos e conceitos básicos do Git com foco em uso real no GitHub. 
+# Lab prático: Git Básico com GitHub
+
+Este lab vai te guiar pelos comandos e conceitos básicos do Git com foco em uso real no GitHub. 
 Vamos praticar:
 
 - Instalação
@@ -261,3 +263,18 @@ git add .
 git commit -m "automatic commit"
 git push
 ```
+
+### 6. Observações e anotações a organizar:
+   ssh-keygen -t ed25519 -C "claudio.sanroman23@gmail.com"
+cat ~/.ssh/
+
+git clone https://github.com/Claudiosan86/Claudio_DevOps.git
+cd nome-do-repo
+
+git remote set-url origin git@github.com:Claudiosan86/Claudio_DevOps
+
+
+ssh-keygen -t ed25519 -C "claudio.sanroman23@gmail.com"
+
+
+rm -rf Claudio_DevOps
