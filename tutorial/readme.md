@@ -265,6 +265,7 @@ git push
 ```
 
 ### 6. Observações e anotações a organizar:
+```bash
    ssh-keygen -t ed25519 -C "claudio.sanroman23@gmail.com"
 cat ~/.ssh/
 
