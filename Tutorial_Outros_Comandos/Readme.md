@@ -3,6 +3,13 @@
 Este repositório foi clonado vazio do GitHub. Para começar a usar e adicionar arquivos, siga os passos abaixo.
 
 ---
+## 0️⃣ Clonar o repositório
+
+Antes de tudo, você precisa clonar o repositório do GitHub para sua máquina local: 📥 O comando git clone copia o repositório remoto para o seu computador.
+Ele cria uma pasta chamada Estudos_Linux com todos os arquivos do repositório (no caso de um repositório vazio, a pasta será criada mas sem arquivos).
+
+```bash
+git clone git@github.com:Claudiosan86/Estudos_Linux.git
 
 ## 1️⃣ Entrar na pasta do repositório
 
