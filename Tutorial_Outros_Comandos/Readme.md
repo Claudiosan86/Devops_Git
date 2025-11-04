@@ -10,6 +10,7 @@ Ele cria uma pasta chamada Estudos_Linux com todos os arquivos do repositório (
 
 ```bash
 git clone git@github.com:Claudiosan86/Estudos_Linux.git
+para mudar o nome no github: git remote set-url origin git@github.com:Claudiosan86/Lab_Linux.git
 
 ## 1️⃣ Entrar na pasta do repositório
 
@@ -37,3 +38,5 @@ bash
 Copiar código
 git add README.md
 git commit -m "Primeiro commit"
+
+
