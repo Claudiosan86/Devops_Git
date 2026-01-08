@@ -1,0 +1,20 @@
+---
+- name: Configurando a VM DevOps
+  hosts: webserver
+  become: yes  # Executa como sudo
+
+  tasks:
+    - name: Garantir que o apt está atualizado
+      apt:
+        update_cache: yes
+
+    - name: Instalar o Nginx
+      apt:
+        name: nginx
+        state: latest
+
+    - name: Garantir que o Nginx está rodando
+      service:
+        name: nginx
+        state: started
+        enabled: yes
